@@ -1,0 +1,14 @@
+{
+  "name": "generate-flamegraphs-from-s3-bucket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "dependencies": {
+    "stackvis": "^0.3.0"
+  }
+}
